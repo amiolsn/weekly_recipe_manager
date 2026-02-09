@@ -1,0 +1,2 @@
+# weekly_recipe_manager
+楽天APIを利用した献立の自動生成、材料の重複排除機能、買い物リスト生成
